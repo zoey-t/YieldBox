@@ -1,0 +1,5 @@
+@openzeppelin/=node_modules/@openzeppelin/
+@boringcrypto/=node_modules/@boringcrypto/
+ds-test/=lib/ds-test/src/
+forge-std/=lib/forge-std
+hardhat/=node_modules/hardhat
